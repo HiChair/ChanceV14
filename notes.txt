@@ -1,0 +1,16 @@
+'guild'             :       refers to discord server
+'intents'           :       events you wish to receive from discord.js client (less events = less bandwidth) 
+'emphemeral'        :       Only the person who sent the message will see
+
+
+
+'module.exports' [ how you export data in Node.js so that you can 'require()' it in other files ]     
+'interaction.client' [ access client instance inside a command file ]
+
+returning a promise and the .then() method indicate a function is asynchronous
+
+
+ytdl-core shitting the bed for Node v16 which is needed for discord.js v14 (gonna use youtube-dl-exec instead)
+
+need to Make a collection to keep track of voice state for different servers like I did with players
+

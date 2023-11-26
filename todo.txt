@@ -1,0 +1,23 @@
+######################## END GOALS ######################################
+1.  Add Soundcloud (√) / YouTube (√) / Spotify support
+2.  Multi Server Support
+3.  Add buttons for control
+4.  Fancy embed player
+5.  Fuck with royce stuff :)
+6.  Use api to add images and things to player                 (√)
+
+
+####### FIX lag when adding youtube video to queue by search   (√)
+####### DELETE songqueue and musicPlaying maps
+###################### SHIT TO GET THIS WORKING ###########################
+Download and play from YouTube                                 (√)
+        
+Audio player pause / resume / stop                             (√)
+    Music Queue / skip                                         (√)
+        Disconnect after timer                                 ( )
+
+Add delete slash command option to deploy-commands to remove test.js when finished  (√)
+
+clear chat messages
+
+add autoplay related youtube videos
